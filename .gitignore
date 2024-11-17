@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+# Logs
+logs/
+*.log
+# Dependency directories
+client/node_modules/
+server/node_modules/
+# Environment variables
+.env
+
